@@ -255,7 +255,7 @@ class App extends Component {
       <div>
         <Navbar></Navbar>
         <Wrapper>
-          <Title>FC Barcelona - Players List</Title>
+          <Title>Ottawa Senators - Players List</Title>
           <SearchForm
             handleFormSubmit={this.handleFormSubmit}
             handleInputChange={this.handleInputChange}
