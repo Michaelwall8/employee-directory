@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Employee-Directory/static/css/main.77e44f67.chunk.css",
-    "main.js": "/Employee-Directory/static/js/main.b0b8e373.chunk.js",
-    "main.js.map": "/Employee-Directory/static/js/main.b0b8e373.chunk.js.map",
-    "runtime-main.js": "/Employee-Directory/static/js/runtime-main.5c5d95e7.js",
-    "runtime-main.js.map": "/Employee-Directory/static/js/runtime-main.5c5d95e7.js.map",
-    "static/js/2.4ddbfe9a.chunk.js": "/Employee-Directory/static/js/2.4ddbfe9a.chunk.js",
-    "static/js/2.4ddbfe9a.chunk.js.map": "/Employee-Directory/static/js/2.4ddbfe9a.chunk.js.map",
-    "index.html": "/Employee-Directory/index.html",
-    "precache-manifest.62c509930fa5ecf619c26fd9a768d3dc.js": "/Employee-Directory/precache-manifest.62c509930fa5ecf619c26fd9a768d3dc.js",
-    "service-worker.js": "/Employee-Directory/service-worker.js",
-    "static/css/main.77e44f67.chunk.css.map": "/Employee-Directory/static/css/main.77e44f67.chunk.css.map",
-    "static/js/2.4ddbfe9a.chunk.js.LICENSE.txt": "/Employee-Directory/static/js/2.4ddbfe9a.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Employee-Directory/static/media/bicon.d9402dd3.png"
+    "main.css": "./static/css/main.3a87beaa.chunk.css",
+    "main.js": "./static/js/main.b0b8e373.chunk.js",
+    "main.js.map": "./static/js/main.b0b8e373.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a14dae9e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a14dae9e.js.map",
+    "static/js/2.4ddbfe9a.chunk.js": "./static/js/2.4ddbfe9a.chunk.js",
+    "static/js/2.4ddbfe9a.chunk.js.map": "./static/js/2.4ddbfe9a.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.5d2a0947ebe64e3ed801be289aea1e22.js": "./precache-manifest.5d2a0947ebe64e3ed801be289aea1e22.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.3a87beaa.chunk.css.map": "./static/css/main.3a87beaa.chunk.css.map",
+    "static/js/2.4ddbfe9a.chunk.js.LICENSE.txt": "./static/js/2.4ddbfe9a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/bicon.d9402dd3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c5d95e7.js",
+    "static/js/runtime-main.a14dae9e.js",
     "static/js/2.4ddbfe9a.chunk.js",
-    "static/css/main.77e44f67.chunk.css",
+    "static/css/main.3a87beaa.chunk.css",
     "static/js/main.b0b8e373.chunk.js"
   ]
 }
